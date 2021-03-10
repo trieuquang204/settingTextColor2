@@ -16,4 +16,5 @@ span {
 }
 .active {
   border: 3px solid black;
+  outline: 3px dashed blue;
 }
