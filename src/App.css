@@ -1,0 +1,19 @@
+.mt-50 {
+  margin: 50px;
+}
+.content {
+  border: 2px solid red;
+  padding: 5px;
+}
+span {
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  margin: 5px;
+}
+.panel-body {
+  display: flex;
+}
+.active {
+  border: 3px solid black;
+}
